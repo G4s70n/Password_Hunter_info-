@@ -1,15 +1,18 @@
 # Password Hunter info
 ### Descripción del funcionamiento de la aplicación Password Hunter
 
-#### Es una aplicación que vulnera cuentas de Instagram y Facebook. Mediante web scraping, recolecta información pública en la web sobre cada usuario y con estos datos genera contraseñas únicas para cada user, siguiendo un patrón. Luego, itera cada cuenta probando las contraseñas generadas hasta que logra acceder. Implementa un sistema de aviso por email a los usuarios cuyas cuentas fueron vulneradas, para alertarlos de posibles hackeos maliciosos. 
+Es una aplicación CLI que vulnera cuentas de Instagram y Facebook. Mediante web scraping, recolecta información pública en la web sobre cada usuario y con estos datos genera contraseñas únicas para cada user, siguiendo un patrón. Luego, itera cada cuenta probando las contraseñas generadas hasta que logra acceder. Implementa un sistema de aviso por email a los usuarios cuyas cuentas fueron vulneradas, para alertarlos de posibles hackeos maliciosos. 
 
-#### No utiliza métodos de hackeo convencionales como pishing, troyados, fuerza bruta, etc. 
+<br></br>
+<br></br>
 
 <div align="center">
   <img src="https://github.com/G4s70n/Password_Hunter_info-/assets/93175088/17ea87c9-6cc6-419b-9e73-918bd23b86a3" alt="publi2" style="width:60%;">
 </div>
+<br></br>
 
 # ¿CÓMO FUNCIONA?
+<br></br>
 
 ⚙️ Extrae información de usuarios de grupos de Facebook o seguidores/seguidos de una cuenta de Instagram que se le indique.
 <br></br>
@@ -25,10 +28,12 @@
 
 
 ⚙️ Cuando accede a una cuenta, puede extraer toda su información:
+<br></br>
 
 <div align="center">
   <img src="https://github.com/G4s70n/Password_Hunter_info-/assets/93175088/3f3ba465-e24e-4f9c-aba8-a96d26e43e72" alt="publi2" style="width:60%;">
 </div>
+<br></br>
 
 Esta funcionalidad, es solo para demostrar la capacidad que puede tener. Su verdadera intencionalidad está en esta siguiente funcionalidad:
 
